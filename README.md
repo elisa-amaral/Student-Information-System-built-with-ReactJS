@@ -71,4 +71,4 @@ All student data and user data is fictional (full names, email addresses, weight
 + Validator.js
 + Express Delay (loading component)
 + generatedata.com
-+ **[REST API for this Student Information Sytem](https://github.com/elisa-amaral/REST-API-for-Student-Information-System)**
++ **[REST API for this Student Information System](https://github.com/elisa-amaral/REST-API-for-Student-Information-System)**
