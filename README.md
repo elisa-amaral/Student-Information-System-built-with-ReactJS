@@ -2,7 +2,7 @@
 
 This project is a Student Information System built with React.js to consume **[this REST API](https://github.com/elisa-amaral/REST-API-for-Student-Information-System)**.
 
-Users can register as administrators, edit their admin account data and manage all students data. See details about all implemented features below.
+Users can register as administrators, edit their admin account data and manage all students data. See details about all implemented features after the screenshots below.
 
 ## Project Demonstration Video
 
