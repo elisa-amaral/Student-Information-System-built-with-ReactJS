@@ -54,6 +54,8 @@ All student data and user data is fictional (full names, email addresses, weight
 ## Technology Stack
 
 + React.js
++ React Hooks
++ React Styled Components
 + React.js Icons
 + Redux
 + Redux Saga
