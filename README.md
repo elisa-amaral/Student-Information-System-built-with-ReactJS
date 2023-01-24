@@ -6,7 +6,7 @@ Users can register as administrators, edit their admin account data and manage a
 
 ## Project Demonstration Video
 
-*coming soon*
+https://drive.google.com/file/d/1tw9IOyYjFAfCuUykKCh8ybdebyM7X9ww/view?usp=sharing
 
 ## Screenshot 1: Login Page
 
