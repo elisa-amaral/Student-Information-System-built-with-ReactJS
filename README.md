@@ -68,4 +68,4 @@ All student data and user data is fictional (full names, email addresses, weight
 + Prettier
 + Validator.js
 + Express Delay (loading component)
-+ [REST API for this Student Information Sytem](https://github.com/elisa-amaral/REST-API-for-Student-Information-System)
++ **[REST API for this Student Information Sytem](https://github.com/elisa-amaral/REST-API-for-Student-Information-System)**
